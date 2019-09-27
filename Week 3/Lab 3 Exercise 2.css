@@ -1,0 +1,13 @@
+body{
+  background-color: red;
+}
+
+.greenlist{
+  color:green;
+  font-style:italic;
+}
+
+.greenItem{
+  display: inline;
+  font-size: 30px;
+}
