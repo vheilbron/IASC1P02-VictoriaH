@@ -1,0 +1,48 @@
+.blackText{
+  font-size: 14px;
+  margin-top: 0pt;
+  text-align: center;
+  vertical-align: bottom;
+}
+
+.greenText{
+  margin: 8pt;
+  color: green;
+  font-size: 9px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.orangeText{
+  font-size: 33px;
+  color: orange;
+  vertical-align: bottom;
+}
+
+.redText{
+  font-size: 25px;
+  color: red;
+  vertical-align: top;
+  padding: 0pt;
+}
+
+.purpleText{
+  color: purple;
+  text-align: right;
+  font-size: 7px;
+}
+
+#yellowItalic{
+  text-transform: uppercase;
+  color: yellow;
+  font-style: italic;
+  font-size: 7px
+}
+
+.blackText{
+  border-style: dotted;
+  border-width: medium;
+  border-color: purple;
+  padding-top: 250px;
+  padding-bottom: 10px;
+}
