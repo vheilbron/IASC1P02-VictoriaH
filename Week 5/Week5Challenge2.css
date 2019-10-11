@@ -1,0 +1,52 @@
+body{
+  background-color: black;
+}
+
+#wrapper{
+  background-color: green;
+  width: 1100px;
+  height: 800px;
+  margin: 0 auto;
+}
+
+#wrapper2{
+  background-color: white;
+  width: 1100px;
+  height: 100px
+  margin: 0 auto;
+}
+
+#header{
+  background-color: red;
+  width: 1100px;
+  height: 100px;
+  text-align: center;
+}
+
+#leftnavigation{
+  background-color: pink;
+  height: 100px;
+  width: 250px;
+  float:left;
+}
+
+#rightnavigation{
+  background-color: orange;
+  height: 100px;
+  width: 800px;
+  float: left;
+}
+
+#content{
+  background-color: blue;
+  height: 400px;
+  width: 1100px;
+  float: left;
+}
+
+#footer{
+  background-color: yellow;
+  width: 1100px;
+  height:100px;
+  float: left;
+}
