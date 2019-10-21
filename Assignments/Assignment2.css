@@ -1,0 +1,30 @@
+.purpleText{
+  color: #49306B;
+  text-align: left;
+  font-size: 25px;
+  font-family:monospace;
+}
+
+#yellowItalic{
+  text-transform: uppercase;
+  color: #9CADCE;
+  font-style: italic;
+  font-size: 20px
+}
+
+.blackText{
+  border-style: dashed;
+  border-width: thick;
+  border-color: #B4E1FF;
+  padding-top: 100px;
+  padding-bottom: 90px;
+  margin-right: auto;
+}
+
+h1,h2,p{color:#326273}
+h3,p{color:#D81159}
+
+
+.marked p{
+  color: orange;
+}
