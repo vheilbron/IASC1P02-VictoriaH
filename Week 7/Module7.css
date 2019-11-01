@@ -1,0 +1,91 @@
+#wrapper{
+  width: 1000px;
+  height: 1000px;
+}
+
+#header{
+  width: 900px;
+  height: 200px;
+  background-color: #717c89;
+  margin: 0 auto;
+}
+
+#Restaurant{
+  width: 150px;
+  height: 150px;
+  padding: 25px;
+}
+
+#leftContent{
+  margin-left: 50px;
+  width: 250px;
+  height: 550px;
+  background-color: #B0A3D4;
+  float:left;
+}
+
+#rightContent{
+  width: 650px;
+  height: 550px;
+  background-color: #CEBACF;
+  float:left;
+}
+
+#mainHeader{
+  position:absolute;
+  top: 75px;
+  left: 450px;
+}
+
+#bigBox{
+  width: 200px;
+  height: 200px;
+  margin: 10px 25px 10px 25px;
+  background-color: #7692FF;
+}
+
+#medBox{
+  width: 200px;
+  height: 100px;
+  margin: 10px 25px 10px 25px;
+  background-color: #7692FF;
+}
+
+.littleBox{
+  width: 50px;
+  height: 50px;
+  margin: 10px 15px 10px 15px;
+  background-color: white;
+  float: left;
+}
+
+#Content1{
+  background-color: #7692FF ;
+  text-align: center;
+}
+
+#Content2{
+  background-color: #7692FF;
+  text-align: center;
+}
+
+#Content3{
+  background-color: red;
+  width: 200px;
+  height: 300px;
+}
+
+#leftAlign{
+  float:left;
+}
+
+#Picture img{
+  height: 200px;
+  width: 300px;
+}
+
+#Content4{
+  background-color: #7692FF;
+  text-align: center;
+  width: 200px;
+}
