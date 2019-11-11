@@ -1,0 +1,68 @@
+#wrapper{
+  width: 1000px;
+  height: 1000px;
+}
+
+#header{
+  width: 900px;
+  height: 200px;
+  background-color: #ffda22;
+  margin: 0 auto;
+}
+
+#mainHeader{
+  position:absolute;
+  top: 50px;
+  left: 270px;
+  font-family: BODONI;
+  font-size: 45px;
+}
+
+#leftContent{
+  margin-left: 50px;
+  width: 900px;
+  height: 550px;
+  background-color: #ffda22;
+  float:left;
+}
+
+#bigBox{
+  width: 200px;
+  height: 200px;
+  margin: 10px 25px 10px 25px;
+  background-color: #111D4A;
+}
+
+#medBox{
+  width: 200px;
+  height: 100px;
+  margin: 10px 25px 10px 25px;
+  background-color: #111D4A;
+}
+
+#Picture img{
+  height: 300px;
+  width: 600px;
+  float: right;
+  margin: 5px 25px 10px 25px;
+}
+
+#rightContent{
+  width: 900px;
+  height: 350px;
+  background-color: #ffda22;
+  margin: -300px 25px 15px 0px;
+}
+
+#Content1{
+  background-color: #ffda22;
+  text-align: center;
+}
+
+.Event{
+  width: 200px;
+  height: 200px;
+  margin: 10px 10px 25px 68px;
+  background-color: #111D4A;
+  float: left;
+}
