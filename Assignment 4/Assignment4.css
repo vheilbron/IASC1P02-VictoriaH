@@ -1,0 +1,88 @@
+html{
+  scroll-behavior: smooth;
+}
+
+#wrapper{
+  width: 1415px;
+  height: 1200px;
+  background-color: #FCFCFC;
+}
+
+#header{
+  width: 1410px;
+  height: 125px;
+  background-color: white;
+  border-style: dotted;
+  border-color: #B2B0B0;
+}
+
+.title{
+  margin: 30pt;
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+  font-family: Palatino;
+}
+
+#spannn{
+  color:white;
+}
+
+#spann{
+  color:white;
+}
+#clear{
+  color: black;
+}
+
+#clear2{
+  color: black;
+}
+
+#ContentBox{
+  background-color: #ECECEC;
+  height: 475px;
+  width: 1200px;
+  margin-top: -10px;
+  margin-right: 1%;
+  margin-bottom: 0px;
+  margin-left: 8%;
+}
+
+#ContentBox2{
+  background-color: #ECECEC;
+  height: 375px;
+  width: 800px;
+  float: right;
+  padding: 10px 5px 10px 5px;
+}
+
+#blank{
+  color: #ECECEC;
+}
+
+#Restaurant{
+  width: 350px;
+  height: 350px;
+  padding: 20px;
+}
+
+#ItalicWord{
+  font-style: italic;
+}
+
+.TravelLink{
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.LookbookLink{
+  text-align:center;
+  text-transform: uppercase;
+}
+
+.RecipesLink{
+  text-align: center;
+  text-transform: uppercase;
+}

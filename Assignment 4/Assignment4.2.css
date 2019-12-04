@@ -1,0 +1,96 @@
+html{
+  scroll-behavior: smooth;
+}
+
+#wrapper{
+  width: 1415px;
+  height: 1200px;
+  background-color: #FCFCFC;
+}
+
+#header{
+  width: 1410px;
+  height: 125px;
+  background-color: white;
+  border-style: dotted;
+  border-color: #B2B0B0;
+}
+
+.title{
+  margin: 30pt;
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+  font-family: Palatino;
+}
+
+#spannn{
+  color:white;
+}
+
+#spann{
+  color:white;
+}
+#clear{
+  color: black;
+}
+
+#clear2{
+  color: black;
+}
+
+#ArtLookbookParagraph{
+  background-color: #ECECEC;
+  height: 100px;
+}
+
+.ParagraphArtLookbook{
+  text-align: center;
+}
+
+#FashionWeek{
+  height: 600px;
+  width: 450px;
+  float:inherit;
+}
+
+#Outfit{
+  height: 575px;
+  width: 400px;
+}
+
+#Outfit2{
+  height: 500px;
+  width: 350px;
+}
+
+#FashionWeek2{
+  height: 610px;
+  width: 470px;
+}
+
+#FashionWeek3{
+  height: 610px;
+  width: 450px;
+}
+
+#Outfit3{
+  height: 600px;
+  width: 420px;
+}
+
+.HomeLink{
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.TravelLink{
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.RecipesLink{
+  text-align: center;
+  text-transform: uppercase;
+}

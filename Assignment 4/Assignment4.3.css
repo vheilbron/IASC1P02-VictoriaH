@@ -1,0 +1,82 @@
+html{
+  scroll-behavior: smooth;
+}
+
+#wrapper{
+  width: 1415px;
+  height: 1200px;
+  background-color: #FCFCFC;
+}
+
+#header{
+  width: 1410px;
+  height: 125px;
+  background-color: white;
+  border-style: dotted;
+  border-color: #B2B0B0;
+}
+
+.title{
+  margin: 30pt;
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+  font-family: Palatino;
+}
+
+#spannn{
+  color:white;
+}
+
+#spann{
+  color:white;
+}
+#clear{
+  color: black;
+}
+
+#clear2{
+  color: black;
+}
+
+h2{
+  text-decoration: underline;
+}
+
+#BananaBread{
+  height: 600px;
+  width: 520px;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #ECECEC;
+}
+
+#RecipeParagraph{
+    background-color: #ECECEC;
+    height: 470px;
+    width: 1410px;
+    padding: 3px 5px 10px 5px;
+    float: right;
+}
+
+.HomeLink{
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.TravelLink{
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.LookbookLink{
+  text-align: center;
+  text-transform: uppercase;
+}

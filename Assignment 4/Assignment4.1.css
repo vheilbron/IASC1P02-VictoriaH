@@ -1,0 +1,114 @@
+html{
+  scroll-behavior: smooth;
+}
+
+#wrapper{
+  width: 1415px;
+  height: 1200px;
+  background-color: #FCFCFC;
+}
+
+#header{
+  width: 1410px;
+  height: 125px;
+  background-color: white;
+  border-style: dotted;
+  border-color: #B2B0B0;
+}
+
+.title{
+  margin: 30pt;
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+  font-family: Palatino;
+}
+
+#spannn{
+  color:white;
+}
+
+#spann{
+  color:white;
+}
+#clear{
+  color: black;
+}
+
+#clear2{
+  color: black;
+}
+
+#ParagraphTravel{
+  background-color: #ECECEC;
+  height: 140px;
+  padding: 3px 5px 10px 5px;
+  float: right;
+}
+
+.Quote{
+  text-align: center;
+}
+
+#Alberta{
+  width: 600px;
+  height: 450px;
+  float:right;
+}
+
+#France{
+  width: 400px;
+  height: 600px;
+  float:right;
+}
+
+#Spain{
+  width: 590px;
+  height: 450px;
+  float: left;
+}
+
+#TheBeach{
+  width: 640px;
+  height: 500px;
+  float: inherit;
+}
+
+#Montreal{
+  width: 440px;
+  height: 575px;
+  float: left;
+}
+
+#CostaRica{
+  width: 455px;
+  height: 600px;
+  float: inherit;
+}
+
+#MontrealIce{
+  height: 575px;
+  width: 450px;
+  float:inherit;
+}
+
+.button{
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.HomeLink{
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.LookbookLink{
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.RecipesLink{
+  text-align: center;
+  text-transform: uppercase;
+}
